@@ -24,7 +24,7 @@ titles
 <img src="https://github.com/andralobo/Module7-Challenge/blob/main/Analysis/titles_for_mentorship.png?raw=true">
 
 - The unique_titles file shows that there are 90,398 employees that will be retiring 
-<a href="unique_titles.csv">click here to view</a>
+<a href="https://github.com/andralobo/Module7-Challenge/blob/main/Data/unique_titles.csv?raw=true">click here to view</a>
 
 
 ## Pewlett Hackard Analysis Summary
