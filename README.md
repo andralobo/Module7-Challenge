@@ -16,7 +16,7 @@ titles
 ## Pewlett Hackard Analysis Results
 
 - There are 7 different rolls that need to be filled:
-<img src="https://github.com/andralobo/Module7-Challenge/blob/main/Analysis/retiring_titles.png?raw=true">
+<img src="https://github.com/andralobo/Module7-Challenge/blob/main/Analysis/retiring_titles.png?raw=true" border="1">
 
 - In the above chart you can also see the breakdown of the number of employees per job title that will need to be mentored
 
